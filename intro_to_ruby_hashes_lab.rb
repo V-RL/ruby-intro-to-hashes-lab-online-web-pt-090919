@@ -17,7 +17,8 @@ def monopoly
 	      :pennsylvania_railroad => {"mortgage_value" => "$200"},
 	      :b_and_o_railroad => {"mortgage_value" => "$400"},
 	      :shortline => {"mortgage_value" => "$800"},
-	    },
+	    }
+	  }
 	  }
 	}
 
